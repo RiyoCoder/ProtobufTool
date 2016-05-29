@@ -1,0 +1,3 @@
+-record(global_data, {strprotoname, bydata}).
+-record(c2g_get_server_list, {}).
+-record(c2g_hand_shake_request, {uportocolid=0, nprotocolversion=0, ngroupid=0, nnettype=0}).
